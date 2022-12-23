@@ -32,3 +32,15 @@ body {
     width: 100%;
     padding: 8px 16px;
 }
+
+.main-header>div {
+    display: inline-block
+}
+
+.main_nav {
+    display: inline-block;
+}
+
+.main_nav__item {
+    display: inline-block;
+}

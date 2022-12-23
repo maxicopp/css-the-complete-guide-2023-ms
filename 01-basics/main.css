@@ -68,10 +68,7 @@ body {
     text-decoration: none;
 }
 
-.main_nav__item a:hover {
-    color: white;
-}
-
+.main_nav__item a:hover,
 .main_nav__item a:active {
     color: white;
 }
